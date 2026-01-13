@@ -655,16 +655,6 @@
 			}
 , 			{
 				"box" : 				{
-					"id" : "obj-142",
-					"maxclass" : "comment",
-					"numinlets" : 1,
-					"numoutlets" : 0,
-					"patching_rect" : [ 1451.200021624565125, 768.800011456012726, 150.0, 20.0 ]
-				}
-
-			}
-, 			{
-				"box" : 				{
 					"id" : "obj-136",
 					"maxclass" : "newobj",
 					"numinlets" : 1,
@@ -1516,11 +1506,13 @@
 , 			{
 				"box" : 				{
 					"id" : "obj-101",
+					"linecount" : 2,
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 1074.0, 232.0, 89.75, 20.0 ],
-					"text" : "Button (B)",
+					"patching_rect" : [ 1074.0, 232.0, 89.75, 33.0 ],
+					"presentation_linecount" : 2,
+					"text" : "Button (B)\nBang",
 					"textcolor" : [ 1.0, 1.0, 1.0, 1.0 ]
 				}
 
