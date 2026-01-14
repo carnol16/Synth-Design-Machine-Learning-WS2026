@@ -10,7 +10,7 @@
 		}
 ,
 		"classnamespace" : "box",
-		"rect" : [ -1021.0, 306.0, 640.0, 452.0 ],
+		"rect" : [ 600.0, 162.0, 640.0, 452.0 ],
 		"bglocked" : 0,
 		"openinpresentation" : 0,
 		"default_fontsize" : 12.0,
@@ -70,7 +70,6 @@
 					"numinlets" : 1,
 					"numoutlets" : 0,
 					"patching_rect" : [ 476.0, 526.5, 220.0, 74.0 ],
-					"presentation_linecount" : 5,
 					"text" : "0 000 1 100 2 200 3 300 4 400 5 500\ninterleaved\n\n0 1 2 3 4 5 000 100 200 300 400 500\nstacked"
 				}
 
@@ -83,7 +82,6 @@
 					"numinlets" : 1,
 					"numoutlets" : 0,
 					"patching_rect" : [ 690.5, 462.5, 150.0, 47.0 ],
-					"presentation_linecount" : 3,
 					"text" : "0 1 2 3 4 5\n\n000 100 200 300 400 500"
 				}
 
